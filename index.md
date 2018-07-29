@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Introduction
+
+I am a PhD student working on machine learning hardware, under Prof. [Marian Verhelst](https://www.esat.kuleuven.be/micas/index.php/marian-verhelst) at [MICAS](https://www.esat.kuleuven.be/micas/) KU Leuven. I am interested in the design of energy-efficient microarchitecture and software-hardware codesign for machine learning algorithms. 
+
+I have a masters in Electronic Systems Engineering from Indian Institute of Science, Bangalore, where I worked with [Kuruvilla Varghese](http://kuruvilla.dese.iisc.ac.in/) on convolutional neural networks accelerator. I have a bachelors in Electronics and Communication from NIT Surat, India.
+
+Before starting PhD, I worked on the memory subsystem of GPU at Nvidia.
 
 You can use the [editor on GitHub](https://github.com/nimish15shah/nimish15shah.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
